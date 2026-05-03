@@ -6,13 +6,14 @@ verified: false
 
 commission:
   type: recurring
-  rate: 
+  rate: "25%"
   currency: USD
 cookie_days: 30
 
 payout:
   minimum: 20
   frequency: net-30
+  methods: [paypal]
 
 short_description: "Earn 25% recurring commission promoting a real-time market data API."
 description: |
