@@ -31,7 +31,7 @@ marketing_materials: false
 api_available: true
 dedicated_manager: false
 dashboard_url: https://realmarketapi.endorsely.com
-network: endorsely
+network: in-house
 program_age: null
 description: RealMarketAPI provides real-time market data APIs for traders and developers, enabling fast and reliable access to financial data for building trading tools, bots, and analytics platforms. Affiliates earn 25% recurring commission and get free access as early partners.
 short_description: Earn 25% recurring commission promoting a real-time market data API for traders and developers.
